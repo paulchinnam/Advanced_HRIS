@@ -1,4 +1,4 @@
-# Advanced HRIS CRUD Application
+# Java/SQL CLI-Based HRIS Application
 
 Extends the features included in the Simple_HRIS repository
 
