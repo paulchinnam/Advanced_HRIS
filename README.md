@@ -1,6 +1,6 @@
 # Java/MySQL CLI-Based HRIS Application
 
-Extends the features included in the Simple_HRIS repository
+Extends basic CRUD features into a more realistic interface
 
 ## Database features 18 tables
 - 5 employee tables
