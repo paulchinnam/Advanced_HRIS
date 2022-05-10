@@ -1,6 +1,7 @@
 # Java/MySQL CLI-Based HRIS Application
 
 Extends basic CRUD features into a more realistic interface
+Currently working on a GUI using Spring Boot/Hibernate
 
 ## Database features 18 tables
 - 5 employee tables
