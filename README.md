@@ -1,3 +1,7 @@
+# Project Objective
+
+Build an employee management system for a fictitious company called McMillan & Associates
+
 # Java/MySQL CLI-Based HRIS Application
 
  Extends basic CRUD features into a more realistic interface
