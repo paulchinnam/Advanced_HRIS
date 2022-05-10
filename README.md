@@ -9,7 +9,12 @@
 
  ## Database features 18 tables
  - 5 employee tables
- @@ -14,4 +18,3 @@ Currently working on a GUI using Spring Boot/Hibernate
+ - 4 Benefits tables
+ - 4 Attendance tables
+ - 5 Business operations tables
+ - 1 Paystub view
+ 
+ ## Features
  - Login
  - Separate menus for employees and managers
  - Managers and employees are enabled different CRUD features based on their authority
